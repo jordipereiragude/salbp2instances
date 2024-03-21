@@ -1,4 +1,4 @@
-# Instances for ``A branch, bound and remember algorithm for maximizing the production rate in the simple assembly line balancing problem'' (under review) 
+# Instances for ``A branch, bound and remember algorithm for maximizing the production rate in the simple assembly line balancing problem'' (doi: 10.1016/j.cor.2024.106597) 
 
 This repository contains the base instances used in the paper and codes to derive new instaces.
 
